@@ -1,0 +1,85 @@
+* {
+    resize: none;
+    border: none;
+    outline: none;
+    text-decoration: none;
+    padding: 0px;
+    margin: 0px;
+    list-style-type: none;
+}
+h1{
+	margin: 150px 0 50px 0;
+	text-align: center;
+}
+.sphere{
+	display: block;
+	margin: 0 auto;
+}
+.sphere > ul{
+	display: block;
+	list-style: none;
+}
+.sphere > ul > li{
+	display: block;
+}
+.sphere > ul > li:hover{
+	opacity: 1 !important;
+}
+.sphere > ul > li > a{
+	display: block;
+	border: 1px solid #333;
+	background: #fff;
+	border-radius: 30px;
+	font-size: 16px;
+	color: #333;
+	padding: 10px 15px;
+	text-align: center;
+}
+.sphere > ul > li:hover > a{
+	color: #935C26;
+	border: 1px solid #935C26;
+	text-decoration: underline;
+}
+.sphere > ul > li > span{
+	display: block;
+	width: 5px;
+	height: 5px;
+	font-size: 20px;
+	border-radius: 50%;
+	border: 1px solid #333;
+}
+.sphere > ul > li > .dot-white{
+	background-color: #fff;
+}
+.sphere > ul > li > .dot-black{
+	background-color: #333;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
